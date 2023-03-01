@@ -1,0 +1,9 @@
+main()
+{
+int  x,y;
+printf("Vvedite x:");
+scanf("%d",&x);
+y=5*x+20;
+printf("Rezyltat: %d",y);
+getchar();
+}
